@@ -1,1 +1,1 @@
-# Creating Gemma Pipeline for Mathematical Infernce 
+# Creating Gemma Pipeline for Mathematical Inference 
